@@ -1,7 +1,8 @@
 git-sh
 ======
 
-A customized bash shell suitable for git work.
+A customized bash shell suitable for git work, **made a tiny bit safer** by excluding the alias for `checkout`, as potentially destructive.
+
 
 The `git-sh` command starts an interactive bash shell tweaked for heavy git
 interaction:
