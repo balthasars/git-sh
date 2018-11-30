@@ -27,7 +27,7 @@ gitconfig files.
   * `b`:
     git branch
   * `c`:
-    git checkout
+    git checkout # was removed because dangerous
   * `d`:
     git diff
   * `f`:

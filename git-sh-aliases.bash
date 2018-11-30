@@ -7,7 +7,6 @@
 gitalias a='git add'
 gitalias st='git status'
 gitalias b='git branch'
-gitalias c='git checkout'
 gitalias d='git diff'
 gitalias f='git fetch --prune'
 gitalias k='git cherry-pick'
@@ -52,7 +51,6 @@ gitalias ds='git diff --stat'    # mnemonic: "diff stat"
 # git reset
 gitalias hard='git reset --hard'
 gitalias soft='git reset --soft'
-gitalias scrap='git checkout HEAD'
 
 # hub pass-through aliases for new commands
 which hub > /dev/null 2> /dev/null && {

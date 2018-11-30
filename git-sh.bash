@@ -99,7 +99,6 @@ _git_cmd_cfg=(
 	'branch         alias  stdcmpl'
 	'bundle                stdcmpl'
 	'cat-file       alias'
-	'checkout       alias  stdcmpl'
 	'cherry         alias  stdcmpl'
 	'cherry-pick    alias  stdcmpl'
 	'clean          alias'
